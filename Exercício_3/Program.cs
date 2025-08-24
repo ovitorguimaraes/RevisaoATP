@@ -2,7 +2,7 @@
 {
     static void Main()
     {
-        const int total = 5;
+        const int total = 15;
         double[] altura = new double[total];
         char[] sexo = new char[total];
 
