@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.AssemblyInfoInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.AssemblyInfo.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.sourcelink.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\bin\Debug\net9.0\Exercício_8.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\bin\Debug\net9.0\Exercício_8.deps.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\bin\Debug\net9.0\Exercício_8.runtimeconfig.json
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\bin\Debug\net9.0\Exercício_8.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\bin\Debug\net9.0\Exercício_8.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\refint\Exercício_8.dll
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\Exercício_8.genruntimeconfig.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Revisão_ATP\Exercício_8\obj\Debug\net9.0\ref\Exercício_8.dll
