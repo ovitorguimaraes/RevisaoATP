@@ -11,9 +11,8 @@
                 Console.Write($"Digite o valor do termo [{i}, {j}]: ");
                 matriz[i, j] = int.Parse(Console.ReadLine());
             }
-        } // até aqui funciona, OK
+        } 
 
-        // estudar
         (int[] acima, int[] abaixo) = pegarelementos(matriz);
 
         Console.Write("\nElementos acima da diagonal principal: ");
@@ -51,4 +50,3 @@
         return (acima, abaixo);
     }
 }
-// estudar
